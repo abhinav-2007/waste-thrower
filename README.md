@@ -1,1 +1,2 @@
-# waste-thrower
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
